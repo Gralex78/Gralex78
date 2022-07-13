@@ -9,7 +9,7 @@ Python, PostgreSQL, Google-инструменты для аналитики (Dat
 
 - Дипломная работа  
   https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/Diplom_VideoGames_Sales_Analysis.ipynb  
-- Итоговая работа по курсу Python для анализа данных   
+- Итоговая работа по курсу Python для анализа данных, статистика в Python  
   https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/Python_Final_Work_Skript.ipynb    
 - Итоговая работа по курсу SQL и получение данных   
   https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/PostgreSQL_Final_Work_Skript.sql  
