@@ -8,14 +8,14 @@ Python, PostgreSQL, Google-инструменты для аналитики (Dat
 
 Мои работы:
 
-- [Дипломная работа](https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/Diplom_VideoGames_Sales_Analysis.ipynb)  
+- [Дипломная работа](https://github.com/Gralex78/MyWorks/blob/master/Diplom_VideoGames_Sales_Analysis.ipynb)  
 
-- [Итоговая работа по курсу Python для анализа данных, статистика в Python](https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/Python_Final_Work_Skript.ipynb)  
+- [Итоговая работа по курсу Python для анализа данных, статистика в Python](https://github.com/Gralex78/MyWorks/blob/master/Python_Final_Work_Skript.ipynb)  
 
-- [Итоговая работа по курсу SQL и получение данных](https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/30_My_Works/PostgreSQL_Final_Work_Skript.sql)  
+- [Итоговая работа по курсу SQL и получение данных](https://github.com/Gralex78/MyWorks/blob/master/PostgreSQL_Final_Work_Skript.sql)  
   [Описание БД](https://docs.google.com/document/d/1tI7VHNI7XzdsX-uYK9-tvXnyyLXlMOX20uSzVL7gHkY/edit?usp=sharing)  
   
-- [Итоговая работа по курсу BIG DATA](https://colab.research.google.com/drive/1id3kYucJuFXA8IFCCqnUT2JHuif6PAdo)  
+- [Итоговая работа по курсу BIG DATA](https://github.com/Gralex78/MyWorks/blob/master/BIG_DATA_PySpark_Final_Work.ipynb)  
   [Отчет](https://datastudio.google.com/s/u6a8jUX2BQg)  
   
 - [Работа по статистике](https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/21_Case_Study/HW_%2321.ipynb)  
