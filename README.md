@@ -20,6 +20,8 @@ Python, PostgreSQL, Google-инструменты для аналитики (Dat
   
 - [Работа по статистике](https://github.com/Gralex78/Home-Work-PYDA-20/blob/master/21_Case_Study/HW_%2321.ipynb)  
 
+- [Домашние и прочие работы](https://github.com/Gralex78/Home-Work-PYDA-20)
+
 
 [Сертификат Нетологии](https://github.com/Gralex78/MyWorks/blob/master/README.md) 
 
